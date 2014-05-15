@@ -33,6 +33,14 @@
 	<http://www.w3.org/2004/02/skos/core#prefLabel> "Registered MetaRelate Contributors" ;
 	.
 
+<http://www.metarelate.net/metOcean/people/97f1f55e0fb6b2a8d0546b04fa32001c3689ee60>
+	<http://purl.org/dc/terms/valid> "2014-05-15T15:00:00.193085" ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#definition> <https://github.com/cpelley> ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://www.metarelate.net/metOcean/people> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Carwyn Pelley" ;
+	.
+
 <http://www.metarelate.net/metOcean/people/a75ae01de2cd1665f62bc38db76016d5b9b184e1>
 	<http://purl.org/dc/terms/valid> "2014-01-22T12:11:05.973077" ;
 	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> ;

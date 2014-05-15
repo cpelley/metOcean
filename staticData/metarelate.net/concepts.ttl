@@ -211,6 +211,13 @@
 	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metarelate.net/vocabulary/index.html#Component> ;
 	.
 
+<http://www.metarelate.net/metOcean/component/05941e2a02d344a73b01efe67166647f45962e1d>
+	<http://www.metarelate.net/vocabulary/index.html#hasFormat> <http://www.metarelate.net/metOcean/format/cf> ;
+	<http://www.metarelate.net/vocabulary/index.html#hasProperty> <http://www.metarelate.net/metOcean/property/32c869c7a8b27a228b4c7f857e45981665384a78> ;
+	<http://www.metarelate.net/vocabulary/index.html#hasProperty> <http://www.metarelate.net/metOcean/property/9e73487883248bd2c4cb7b4269088cc3eb676257> ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metarelate.net/vocabulary/index.html#Component> ;
+	.
+
 <http://www.metarelate.net/metOcean/component/05b4c3c92a78e9e95b349f825ebc4f33340d291b>
 	<http://www.metarelate.net/vocabulary/index.html#hasFormat> <http://www.metarelate.net/metOcean/format/um> ;
 	<http://www.metarelate.net/vocabulary/index.html#hasProperty> <http://www.metarelate.net/metOcean/property/1c39c44149e6fea3ebeafbbbb3b982905bbfbb86> ;
@@ -1059,6 +1066,13 @@
 	<http://www.metarelate.net/vocabulary/index.html#hasProperty> <http://www.metarelate.net/metOcean/property/ab5ac235a3c2ddd084326ea3737a251eb3000f6e> ;
 	<http://www.metarelate.net/vocabulary/index.html#hasProperty> <http://www.metarelate.net/metOcean/property/cda56b28b08cd9c6def35c1ebb636fbf97919361> ;
 	<http://www.metarelate.net/vocabulary/index.html#hasProperty> <http://www.metarelate.net/metOcean/property/cfb0e0f7ea6ff462989e4286315683559f20fff4> ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metarelate.net/vocabulary/index.html#Component> ;
+	.
+
+<http://www.metarelate.net/metOcean/component/2961ef18056d1d929570c8f3e1a0063ff4654e17>
+	<http://www.metarelate.net/vocabulary/index.html#hasFormat> <http://www.metarelate.net/metOcean/format/cf> ;
+	<http://www.metarelate.net/vocabulary/index.html#hasProperty> <http://www.metarelate.net/metOcean/property/1239504df7295e2d224d01287df4a5d00953a2ae> ;
+	<http://www.metarelate.net/vocabulary/index.html#hasProperty> <http://www.metarelate.net/metOcean/property/69e1b14c0cfae0d5ddbe065cf80ac07148fb24e6> ;
 	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metarelate.net/vocabulary/index.html#Component> ;
 	.
 
@@ -3063,6 +3077,14 @@
 	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metarelate.net/vocabulary/index.html#Component> ;
 	.
 
+<http://www.metarelate.net/metOcean/component/6ba4524a692d3c3c8019124e1fc5fe0c717c31b9>
+	<http://www.metarelate.net/vocabulary/index.html#hasFormat> <http://www.metarelate.net/metOcean/format/grib> ;
+	<http://www.metarelate.net/vocabulary/index.html#hasProperty> <http://www.metarelate.net/metOcean/property/6fd321e0ab482c69967e31f7b1feb84966104d4c> ;
+	<http://www.metarelate.net/vocabulary/index.html#hasProperty> <http://www.metarelate.net/metOcean/property/7e28cc57e0830efbd4c7da770f0ac2a2473a11f4> ;
+	<http://www.metarelate.net/vocabulary/index.html#hasProperty> <http://www.metarelate.net/metOcean/property/f61c3a356c8596207977c16eb04fd9f86aa079a0> ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metarelate.net/vocabulary/index.html#Component> ;
+	.
+
 <http://www.metarelate.net/metOcean/component/6c076998b150516a408c066b541936c09ff95971>
 	<http://www.metarelate.net/vocabulary/index.html#hasFormat> <http://www.metarelate.net/metOcean/format/cf> ;
 	<http://www.metarelate.net/vocabulary/index.html#hasProperty> <http://www.metarelate.net/metOcean/property/8512d7640d2f3a04ae955a2424ed73461e2d5074> ;
@@ -3170,6 +3192,14 @@
 	<http://www.metarelate.net/vocabulary/index.html#hasProperty> <http://www.metarelate.net/metOcean/property/9c36ad6efa9868c28cd29b68cda229995082b91f> ;
 	<http://www.metarelate.net/vocabulary/index.html#hasProperty> <http://www.metarelate.net/metOcean/property/e64794efd21bb226f2a8b179ff370dc592e00e85> ;
 	<http://www.metarelate.net/vocabulary/index.html#hasProperty> <http://www.metarelate.net/metOcean/property/f3febebdd6fb865fa905f4437bd42daa964f191e> ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metarelate.net/vocabulary/index.html#Component> ;
+	.
+
+<http://www.metarelate.net/metOcean/component/702cfd9145cad380b42a95ab104acd57c865c5d3>
+	<http://www.metarelate.net/vocabulary/index.html#hasFormat> <http://www.metarelate.net/metOcean/format/grib> ;
+	<http://www.metarelate.net/vocabulary/index.html#hasProperty> <http://www.metarelate.net/metOcean/property/3a8d67d37175cdfe45b1b0898a4fa890781de5a5> ;
+	<http://www.metarelate.net/vocabulary/index.html#hasProperty> <http://www.metarelate.net/metOcean/property/6893d287d708874f522fca396949d7207a9b9dba> ;
+	<http://www.metarelate.net/vocabulary/index.html#hasProperty> <http://www.metarelate.net/metOcean/property/6fd321e0ab482c69967e31f7b1feb84966104d4c> ;
 	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metarelate.net/vocabulary/index.html#Component> ;
 	.
 
@@ -7672,6 +7702,13 @@
 	<http://www.w3.org/1999/02/22-rdf-syntax-ns#value> <http://def.cfconventions.org/standard_names/convective_rainfall_amount> ;
 	.
 
+<http://www.metarelate.net/metOcean/property/1239504df7295e2d224d01287df4a5d00953a2ae>
+	<http://www.metarelate.net/vocabulary/index.html#name> <http://def.cfconventions.org/datamodel/standard_name> ;
+	<http://www.metarelate.net/vocabulary/index.html#operator> <http://www.openmath.org/cd/relation1.xhtml#eq> ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metarelate.net/vocabulary/index.html#Property> ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "toa_outgoing_longwave_flux" ;
+	.
+
 <http://www.metarelate.net/metOcean/property/130625cd460024ae9742cea98b4176f0c02a21f5>
 	<http://www.metarelate.net/vocabulary/index.html#name> <http://reference.metoffice.gov.uk/um/f3/stash> ;
 	<http://www.metarelate.net/vocabulary/index.html#operator> <http://www.openmath.org/cd/relation1.xhtml#eq> ;
@@ -8391,6 +8428,13 @@
 	<http://www.metarelate.net/vocabulary/index.html#operator> <http://www.openmath.org/cd/relation1.xhtml#eq> ;
 	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metarelate.net/vocabulary/index.html#Property> ;
 	<http://www.w3.org/1999/02/22-rdf-syntax-ns#value> 19 ;
+	.
+
+<http://www.metarelate.net/metOcean/property/32c869c7a8b27a228b4c7f857e45981665384a78>
+	<http://www.metarelate.net/vocabulary/index.html#name> <http://def.cfconventions.org/datamodel/standard_name> ;
+	<http://www.metarelate.net/vocabulary/index.html#operator> <http://www.openmath.org/cd/relation1.xhtml#eq> ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metarelate.net/vocabulary/index.html#Property> ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "surface_temperature" ;
 	.
 
 <http://www.metarelate.net/metOcean/property/332053c10a0d85909895a40bf56ae9e3b6df3911>
@@ -14076,6 +14120,13 @@
 	<http://www.metarelate.net/vocabulary/index.html#operator> <http://www.openmath.org/cd/relation1.xhtml#eq> ;
 	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metarelate.net/vocabulary/index.html#Property> ;
 	<http://www.w3.org/1999/02/22-rdf-syntax-ns#value> <http://reference.metoffice.gov.uk/um/stash/m01s02i201> ;
+	.
+
+<http://www.metarelate.net/metOcean/property/f61c3a356c8596207977c16eb04fd9f86aa079a0>
+	<http://www.metarelate.net/vocabulary/index.html#name> <http://def.ecmwf.int/api/grib/keys/parameterCategory> ;
+	<http://www.metarelate.net/vocabulary/index.html#operator> <http://www.openmath.org/cd/relation1.xhtml#eq> ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.metarelate.net/vocabulary/index.html#Property> ;
+	<http://www.w3.org/1999/02/22-rdf-syntax-ns#value> 5 ;
 	.
 
 <http://www.metarelate.net/metOcean/property/f6707f35b2df4a9a192ee12c3232dc27186bc286>
